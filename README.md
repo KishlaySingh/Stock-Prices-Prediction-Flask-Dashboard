@@ -13,18 +13,16 @@
 
 * [About the Project](#about-the-project).
   * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
+* [Installation](#installation)
 * [Usage](#usage)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ## Demo
-![Demo](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/ezgif.com-video-to-gif.gif)
+![Demo](https://github.com/KishlaySingh/Stock-Prices-Prediction-Flask-Dashboard/blob/master/pics/ezgif.com-video-to-gif.gif)
 
-## Dashbord
-![Output-Data](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/Capture3.PNG)
+## Dashboard
+![Output-Data](https://github.com/KishlaySingh/Stock-Prices-Prediction-Flask-Dashboard/blob/master/pics/Capture3.PNG)
 
 
 ### Built With
@@ -34,7 +32,7 @@
 * [flask](https://www.python.org/)
 
 
-## Models and algorithums
+## Models and algorithims
 
 ```
 ├── SVR
@@ -48,12 +46,10 @@
 
 ```
 
-### Prerequisites
-
 ### Installation
 1. Clone the repo
 ```sh
-git clone https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard.git
+git clone https://github.com/KishlaySingh/Stock-Prices-Prediction-Flask-Dashboard.git
 ```
 
 2. Install python packages
