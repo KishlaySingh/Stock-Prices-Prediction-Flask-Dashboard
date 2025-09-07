@@ -14,7 +14,7 @@
 * [Demo](#demo)
 * [Dashboard](#Dashboard)
 * [Built With](#Built-With)
-* [Models and algorithims](#Models-and-Algorithms)
+* [Models and Algorithms](#Models-and-Algorithms)
 * [Installation](#installation)
 * [Usage](#usage)
 
@@ -34,7 +34,7 @@
 * [flask](https://www.python.org/)
 
 
-## Models and algorithims
+## Models and Algorithms
 
 ```
 ├── SVR
