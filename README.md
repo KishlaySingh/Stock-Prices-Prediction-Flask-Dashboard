@@ -11,8 +11,10 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project).
-  * [Built With](#built-with)
+* [Demo](#demo)
+* [Dashboard](#Dashboard)
+* [Built With](#Built-With)
+* [Models and algorithims](#Models-and-Algorithms)
 * [Installation](#installation)
 * [Usage](#usage)
 
